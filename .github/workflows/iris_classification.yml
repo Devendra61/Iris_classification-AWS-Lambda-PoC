@@ -3,7 +3,7 @@ name: iris-classification
 on:
   pull_request: 
     branches:
-      - master # this can be main
+      - master # this can be main BRANCH
     paths:
       - "iris_classification/**"
 
